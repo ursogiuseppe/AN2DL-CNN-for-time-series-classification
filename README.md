@@ -4,7 +4,7 @@
 
 * The goal of the project is to classify time-series among 12 classes, through a deep convolutional neural network. Therefore, being a classification problem, given in input a time series (of size 36x6, 36 time steps and 6 variables), the CNN outputs the predicted class label.
 
-* For this homework the team has experimented with also FNN, LSTM, Bidirectional-LSTM and Transformer models, but they performed worse or as good as the final proposed solution. Therefore, the team decided to implement a CNN (with 1D convolutions) which leads to the best performances (in terms of accuracy) despite model simplicity.
+* For this homework the team has experimented with also FNN, LSTM, Bidirectional-LSTM and Transformer models, but they performed worse or as good as the final proposed solution. Therefore, the team decided to implement a CNN (with 1D convolutions), which leaded to the best performances (in terms of accuracy) despite model simplicity.
 
 * The notebook is supposed to be run in a Kaggle environment.
 
